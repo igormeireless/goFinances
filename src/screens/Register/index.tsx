@@ -92,8 +92,7 @@ export function Register() {
     }
 
     return (
-        <TouchableWithoutFeedback
-            onPress={Keyboard.dismiss}
+        <TouchableWithoutFeedback onPress={Keyboard.dismiss}
             containerStyle={{ flex: 1 }}
             style={{ flex: 1 }}
         >

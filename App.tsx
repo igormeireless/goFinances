@@ -1,7 +1,7 @@
 import React from 'react';
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import * as SplashScreen from 'expo-splash-screen';
 import { ThemeProvider } from 'styled-components';
-import { GestureHandlerRootView } from 'react-native-gesture-handler';
 
 import {
   useFonts,
