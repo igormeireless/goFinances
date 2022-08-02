@@ -1,4 +1,4 @@
-# goFinances
+# App goFinances
 
 ## Sobre
 O projeto foi desenvolvido na trila de React Native da Rocketseat e consite em um app de gestão financeira onde é possível cadastrar as entradas e saídas, além de gerar gráfico com a consolidação das saídas do período.
